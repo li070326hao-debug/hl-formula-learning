@@ -1,0 +1,7 @@
+interface:
+  display_name: "HL_formula_learning"
+  short_description: "逐层讲解科研数学公式、符号与直观原理"
+  default_prompt: "Use $hl-formula-learning to explain a mathematical formula from intuition to a worked example."
+
+policy:
+  allow_implicit_invocation: true
